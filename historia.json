@@ -1,7 +1,4 @@
 [
-//beni
-
-//cochabamba
 {
     "country": "BOLIVIA",
     "name": "Cristo de la Concordia",
@@ -32,7 +29,7 @@
     "lat": -16.996098,
     "lng": -65.150990
   },
-//chuquisaca
+
 {
     "country": "BOLIVIA",
     "name": "Parque Cretacico",
@@ -51,7 +48,7 @@
     "lat": -19.084604,
     "lng": -65.268608
   },
-//la paz
+
 {
     "country": "BOLIVIA",
     "name": "Basilica de San Francisco",
@@ -106,14 +103,14 @@
     "lat": -16.556244,
     "lng": -68.672755
   },
-//oruro
+
 {
     "country": "BOLIVIA",
     "name": "Monumento a la Virgen de Candelaria",
     "lat": -17.974536,
     "lng": -67.120640
   },
-//potosi
+
 {
     "country": "BOLIVIA",
     "name": "Salar de Uyuni",
@@ -132,9 +129,6 @@
     "lat": -22.621498,
     "lng": -67.667976
   },
-//pando
-
-//santa cruz
 {
     "country": "BOLIVIA",
     "name": "El Fuerte de Samaipata",
@@ -171,7 +165,7 @@
     "lat": -17.758608,
     "lng": -63.235674
   },
-//tarija
+
 {
     "country": "BOLIVIA",
     "name": "Museo Nacional Paleontologico Arqueologico",

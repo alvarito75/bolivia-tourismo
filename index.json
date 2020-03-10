@@ -1,7 +1,5 @@
 [
-  //beni
-  
-  //cochabamba
+
   {
     "country": "BOLIVIA",
     "name": "Cristo de la concordia",
@@ -56,7 +54,7 @@
     "lat": -17.386102,
     "lng": -66.162791
   },
-  //chuquisaca
+
   {
     "country": "BOLIVIA",
     "name": "Parque Cretacico",
@@ -93,7 +91,7 @@
     "lat": -19.048760,
     "lng": -65.259967
   },
-  //la paz
+
   {
     "country": "BOLIVIA",
     "name": "Isla del Sol",
@@ -322,7 +320,7 @@
     "lat": -16.194835,
     "lng": -68.243975
   },
-  //oruro
+
   {
     "country": "BOLIVIA",
     "name": "Volcan Tunupa",
@@ -353,7 +351,6 @@
     "lat": -17.974536,
     "lng": -67.120640
   },
-  //potosi
   {
     "country": "BOLIVIA",
     "name": "Salar de Uyuni",
@@ -468,9 +465,7 @@
     "lat": -22.833293,
     "lng": -67.883333
   },
-  //pando
-  
-  //santa cruz
+
   {
     "country": "BOLIVIA",
     "name": "Parque Nacional Amboro",
@@ -483,7 +478,7 @@
     "lat": -14.369800,
     "lng": -60.854349
   },
-  //falta este=
+
   {
     "country": "BOLIVIA",
     "name": "Parque Nacional y Area Natural de manejo",
@@ -532,7 +527,7 @@
     "lat": -17.759207,
     "lng": -63.183081
   },
-  //tarija
+
   {
     "country": "BOLIVIA",
     "name": "Reserva Nacional de Flora y Fauna de Tariquia",
