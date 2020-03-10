@@ -1,0 +1,545 @@
+[
+  //beni
+  
+  //cochabamba
+  {
+    "country": "BOLIVIA",
+    "name": "Cristo de la concordia",
+    "lat": -17.383120,
+    "lng": -66.134568
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Parque Nacional Tunari",
+    "lat": -17.245640,
+    "lng": -66.334147
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Parque Nacional Carrasco",
+    "lat": -17.397711,
+    "lng": -64.966825
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Incallajta",
+    "lat": -17.604785,
+    "lng": -65.415404
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Palacio Portales",
+    "lat": -17.374758,
+    "lng": -66.152809
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Museo Convento de Santa Teresa",
+    "lat": -17.389815,
+    "lng": -66.158080
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Plaza 14 de septiembre",
+    "lat": -17.393661,
+    "lng": -66.156950
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Laguna La Angostura",
+    "lat": -17.533981,
+    "lng": -66.093058
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Parque de la Familia",
+    "lat": -17.386102,
+    "lng": -66.162791
+  },
+  //chuquisaca
+  {
+    "country": "BOLIVIA",
+    "name": "Parque Cretacico",
+    "lat": -19.006434,
+    "lng": -65.236226
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Casa de la Libertad",
+    "lat": -19.047376,
+    "lng": -65.260160
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Museo Nacional de Etnografía y Folklore",
+    "lat": -19.047162,
+    "lng": -65.259428
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Parque Simon Bolivar",
+    "lat": -19.041684,
+    "lng": -65.264470
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Parque Nacional Isoboro-Secure",
+    "lat": -16.455590,
+    "lng": -66.033989
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Catedral Basilica de Nuestra Senora de Guadalupe",
+    "lat": -19.048760,
+    "lng": -65.259967
+  },
+  //la paz
+  {
+    "country": "BOLIVIA",
+    "name": "Isla del Sol",
+    "lat": -16.017077,
+    "lng": -69.177992
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Camino de los Yungas",
+    "lat": -16.264266,
+    "lng": -67.791034
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Tiwanaku",
+    "lat": -16.555067,
+    "lng": -68.678463
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Parque Nacional Madidi",
+    "lat": -14.197050,
+    "lng": -68.345050
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Mercado de las Brujas",
+    "lat": -16.496487,
+    "lng": -68.139026
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Huayna Potosi",
+    "lat": -16.497884,
+    "lng": -68.139217
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Valle de la Luna",
+    "lat": -16.567447,
+    "lng": -68.093919
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Illimani",
+    "lat": -16.633135,
+    "lng": -67.790801
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Puerta del Sol",
+    "lat": -16.554350,
+    "lng": -68.673940
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Chacaltaya",
+    "lat": -16.346951,
+    "lng": -68.127861
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Puma Punku",
+    "lat": -16.561696,
+    "lng": -68.680110
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Isla de la Luna",
+    "lat": -16.037524,
+    "lng": -69.072213
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Plaza Murillo",
+    "lat": -16.532617,
+    "lng": -68.141458
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Condoriri",
+    "lat": -16.171038,
+    "lng": -68.230524
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Volcan Parinacota",
+    "lat": -18.162609,
+    "lng": -69.142696
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Basilica de San Francisco",
+    "lat": -16.496679,
+    "lng": -68.137260
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Illampu",
+    "lat": -15.833333,
+    "lng": -68.566710
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Kalasasaya",
+    "lat": -16.554654,
+    "lng": -68.673411
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Calle Jaen",
+    "lat": -16.492167,
+    "lng": -68.135735
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Estrecho de Tiquina",
+    "lat": -16.221868,
+    "lng": -68.842424
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Cerro el Calvario",
+    "lat": -16.161296,
+    "lng": -69.091624
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Museo de la Coca",
+    "lat": -16.497549,
+    "lng": -68.138328
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Muela del Diablo",
+    "lat": -16.562163,
+    "lng": -68.056934
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Mirador Killi Killi",
+    "lat": -16.494986,
+    "lng": -68.127445
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Basilica de Nuestra Senora de Copacabana",
+    "lat": -16.166433,
+    "lng": -69.085624
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Sagarnaga",
+    "lat": -16.497379,
+    "lng": -68.138332
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Ancohuma",
+    "lat": -15.853209,
+    "lng": -68.540833
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Pequeno Alpamayo",
+    "lat": -16.171337,
+    "lng": -68.213323
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Piramide de Akapana",
+    "lat": -16.556244,
+    "lng": -68.672755
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Laguna Glaciar",
+    "lat": -15.830167,
+    "lng": -68.562238
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Carcel de San Pedro",
+    "lat": -16.503025,
+    "lng": -68.134659
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Valle de las Animas",
+    "lat": -16.538798,
+    "lng": -68.025472
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Monolito Ponce",
+    "lat": -16.554718,
+    "lng": -68.673120
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Palacio del Gobierno",
+    "lat": -16.496318,
+    "lng": -68.133697
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Cerro Mururata",
+    "lat": -16.530523,
+    "lng": -67.827525
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Chinkana",
+    "lat": -16.166283,
+    "lng": -69.086168
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Plaza mayor de San Francisco",
+    "lat": -16.495305,
+    "lng": -68.136993
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Ch'iyar Quta",
+    "lat": -16.194835,
+    "lng": -68.243975
+  },
+  //oruro
+  {
+    "country": "BOLIVIA",
+    "name": "Volcan Tunupa",
+    "lat": -19.833166,
+    "lng": -67.646427
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Cementerio de Trenes",
+    "lat": -20.481583,
+    "lng": -66.837984
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Nevado de Sajama",
+    "lat": -18.108170,
+    "lng": -68.883333
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Salar de Coipasa",
+    "lat": -19.383014,
+    "lng": -68.166433
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Monumento a la Virgen de Candelaria",
+    "lat": -17.974536,
+    "lng": -67.120640
+  },
+  //potosi
+  {
+    "country": "BOLIVIA",
+    "name": "Salar de Uyuni",
+    "lat": -20.173588,
+    "lng": -67.569397
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Laguna Colorada",
+    "lat": -22.207884,
+    "lng": -67.773781
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Laguna Verde",
+    "lat": -22.795187,
+    "lng": -67.836159
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Isla Incahuasi",
+    "lat": -20.241887,
+    "lng": -67.625243
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Reserva nacional de Fauna andina Eduardo Abaroa",
+    "lat": -22.581940,
+    "lng": -67.475373
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Sol de Manana",
+    "lat": -22.433918,
+    "lng": -67.756205
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Arbol de Piedra",
+    "lat": -22.051686,
+    "lng": -67.883285
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Laguna Hedionda",
+    "lat": -21.568133,
+    "lng": -68.047543
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Parque Nacional ToroToro",
+    "lat": -18.073003,
+    "lng": -65.784738
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Isla del Pescado",
+    "lat": -20.142854,
+    "lng": -67.807629
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Laguna Blanca",
+    "lat": -22.789635,
+    "lng": -67.794108
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Desierto Salvador Dali",
+    "lat": -22.621498,
+    "lng": -67.667976
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Laguna Canapa",
+    "lat": -21.504204,
+    "lng": -68.010876
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Cerro rico de Potosi",
+    "lat": -19.618757,
+    "lng": -65.749863
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Termas de Polques",
+    "lat": -22.535406,
+    "lng": -67.649150
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Salar de Chiguana",
+    "lat": -21.099549,
+    "lng": -68.020088
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Salar de Chalviri",
+    "lat": -22.533131,
+    "lng": -67.566756
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Uturuncu",
+    "lat": -22.269761,
+    "lng": -67.180043
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Volcan Licancabur",
+    "lat": -22.833293,
+    "lng": -67.883333
+  },
+  //pando
+  
+  //santa cruz
+  {
+    "country": "BOLIVIA",
+    "name": "Parque Nacional Amboro",
+    "lat": -17.812219,
+    "lng": -64.053603
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Parque Nacional Noel Kempff mercado",
+    "lat": -14.369800,
+    "lng": -60.854349
+  },
+  //falta este=
+  {
+    "country": "BOLIVIA",
+    "name": "Parque Nacional y Area Natural de manejo",
+    "lat": -22.269761,
+    "lng": -67.180043
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Parque Regional Lomas de Arena",
+    "lat": -17.940613,
+    "lng": -63.160121
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Plaza 24 de septiembre",
+    "lat": -17.787309,
+    "lng": -63.184293
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Catedral Basilica de San Lorenzo",
+    "lat": -17.783817,
+    "lng": -63.181843
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Jardín Botánico Municipal de Santa Cruz de la Sierra",
+    "lat": -17.764752,
+    "lng": -63.070367
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Parque el Arenal",
+    "lat": -17.777661,
+    "lng": -63.180536
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Biocentro Guembe",
+    "lat": -17.768341,
+    "lng": -63.247221
+  },
+  {
+    "country": "BOLIVIA",
+    "name": "Zoológico Municipal de Fauna Sudamericana Noel Kempff Mercado",
+    "lat": -17.759207,
+    "lng": -63.183081
+  },
+  //tarija
+  {
+    "country": "BOLIVIA",
+    "name": "Reserva Nacional de Flora y Fauna de Tariquia",
+    "lat": -22.104365,
+    "lng": -64.431956
+  }
+  
+  
+  
+]

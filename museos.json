@@ -1,0 +1,112 @@
+[
+//beni
+
+//cochabamba
+
+/chuquisaca
+{
+    "country": "BOLIVIA",
+    "name": "Museo del Tesoro",
+    "lat": -19.047334,
+    "lng": -65.259315
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Museo del Arte Indigena ASUR",
+    "lat": -19.053840,
+    "lng": -65.253874
+  },
+//la paz
+{
+    "country": "BOLIVIA",
+    "name": "Museo de Arte Antonio Paredes Candia",
+    "lat": -16.519649,
+    "lng": -68.151397
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Museo Nacional de Arqueologia",
+    "lat": -16.502384,
+    "lng": -68.130448
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Museo fernando montes",
+    "lat": -16.508633,
+    "lng": -68.129091
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Museo de la Coca",
+    "lat": -16.497549,
+    "lng": -68.138328
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Centro cultural Museo San Francisco",
+    "lat": -16.496043,
+    "lng": -68.137321
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Museo Nacional de Arte",
+    "lat": -16.495781,
+    "lng": -68.134432
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Museo Nacional de Etnografía y Folklore",
+    "lat": -16.494428,
+    "lng": -68.135096
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Museo de Instrumentos Musicales",
+    "lat": -16.492532,
+    "lng": -68.136284
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Museo Tambo Quirquincho",
+    "lat": -16.493565,
+    "lng": -68.138069
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Museo de Metales Preciosos",
+    "lat": -16.492012,
+    "lng": -68.135678
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Museo Litoral Boliviano",
+    "lat": -16.491943,
+    "lng": -68.135631
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Museo costumbrista Juan de Vargas",
+    "lat": -16.491769,
+    "lng": -68.135587
+  },
+//oruro
+
+//potosi
+{
+    "country": "BOLIVIA",
+    "name": "Museo Humberto Iporre Salinas",
+    "lat": -19.590582,
+    "lng": -65.750320
+  },
+//pando
+
+//santa cruz
+
+//tarija
+{
+    "country": "BOLIVIA",
+    "name": "Museo Nacional Paleontologico Arqueologico",
+    "lat": -21.534856,
+    "lng": -64.734992
+  }
+]

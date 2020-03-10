@@ -1,0 +1,183 @@
+[
+//beni
+
+//cochabamba
+{
+    "country": "BOLIVIA",
+    "name": "Cristo de la Concordia",
+    "lat": -17.383120,
+    "lng": -66.134568
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Catedral Metropolitana de San Sebastián Arquidiócesis",
+    "lat": -17.394373,
+    "lng": -66.156530
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Incallajta",
+    "lat": -17.604785,
+    "lng": -65.415404
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Plaza Colon",
+    "lat": -17.388027,
+    "lng": -66.155841
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Tropico de Cochabamba",
+    "lat": -16.996098,
+    "lng": -65.150990
+  },
+//chuquisaca
+{
+    "country": "BOLIVIA",
+    "name": "Parque Cretacico",
+    "lat": -19.006434,
+    "lng": -65.236226
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Catedral Basilica de Nuestra Senora de Guadalupe",
+    "lat": -19.048760,
+    "lng": -65.259967
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Castillo de la Glorieta",
+    "lat": -19.084604,
+    "lng": -65.268608
+  },
+//la paz
+{
+    "country": "BOLIVIA",
+    "name": "Basilica de San Francisco",
+    "lat": -16.496679,
+    "lng": -68.137260
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Museo Nacional de Arqueologia",
+    "lat": -16.502384,
+    "lng": -68.130448
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Tiwanaku",
+    "lat": -16.555067,
+    "lng": -68.678463
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Isla Pariti",
+    "lat": -16.349794,
+    "lng": -68.733376
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Lago Titicaca",
+    "lat": -15.917739,
+    "lng": -69.337599
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Puma Punku",
+    "lat": -16.561696,
+    "lng": -68.680110
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Isla de la Luna",
+    "lat": -16.039688,
+    "lng": -69.071732
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Basilica de Nuestra Senora de Copacabana",
+    "lat": -16.166433,
+    "lng": -69.085624
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Piramide de Akapana",
+    "lat": -16.556244,
+    "lng": -68.672755
+  },
+//oruro
+{
+    "country": "BOLIVIA",
+    "name": "Monumento a la Virgen de Candelaria",
+    "lat": -17.974536,
+    "lng": -67.120640
+  },
+//potosi
+{
+    "country": "BOLIVIA",
+    "name": "Salar de Uyuni",
+    "lat": -20.144191,
+    "lng": -67.759759
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Arbol de Piedra",
+    "lat": -22.051845,
+    "lng": -67.883285
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Desierto Salvador Dali",
+    "lat": -22.621498,
+    "lng": -67.667976
+  },
+//pando
+
+//santa cruz
+{
+    "country": "BOLIVIA",
+    "name": "El Fuerte de Samaipata",
+    "lat": -18.178659,
+    "lng": -63.820459
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Parque Ecologico Yvaga Guazu",
+    "lat": -17.867952,
+    "lng": -63.269605
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Biocentro Guembe",
+    "lat": -17.768341,
+    "lng": -63.247221
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Avion Pirata",
+    "lat": -17.775780,
+    "lng": -63.173893
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Catedral Basilica de San Lorenzo",
+    "lat": -17.783817,
+    "lng": -63.181843
+  },
+{
+    "country": "BOLIVIA",
+    "name": "Santa Cruz La vieja",
+    "lat": -17.758608,
+    "lng": -63.235674
+  },
+//tarija
+{
+    "country": "BOLIVIA",
+    "name": "Museo Nacional Paleontologico Arqueologico",
+    "lat": -21.534856,
+    "lng": -64.734992
+  }
+
+
+]
